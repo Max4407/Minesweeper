@@ -1,5 +1,5 @@
 Author: Max FitzGerald  
-UFL email: mfitzgerald4@ufl.edu  
+Email: maxafitz@yahoo.com
 System: Windows 11  
 Compiler: mingw  
 SFML version: 2.5.1  
